@@ -2,7 +2,7 @@
 <b> <h1> A MULTI-FUNCTIONAL ACCESSIBILITY ANDROID APPLICATION </h1> </b>
 
 
-![alt text](https://i.ibb.co/TwywfVT/App-Icon-V2.png)
+![alt text](https://i.ibb.co/Rj1yJvc/App-Icon-V2-Small.png)
 
 
 ![alt text](https://i.ibb.co/BzGrgsb/ss6.png) ![alt text](https://i.ibb.co/THR3G9Q/ss2.png) 
