@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    tools:context="com.polyassist.omar.ce301.com.polyassist.omar.ce301.GlobalActionBarService">
+
+
+    <io.github.yavski.fabspeeddial.FabSpeedDial
+        android:id="@+id/accessibleMenu"
+        style="@style/AppTheme"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|end"
+        app:fabGravity="bottom_end"
+        app:fabMenu="@menu/main_menu"
+        app:miniFabBackgroundTint="@android:color/white"
+        app:miniFabDrawableTint="@color/colorPrimaryDark"
+        app:miniFabTitleTextColor="@color/colorPrimaryDark" />
+
+
+</FrameLayout>

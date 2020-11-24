@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <CheckBoxPreference
+        android:defaultValue="false"
+        android:key="sms_reader"
+        android:summary="@string/sms_summary"
+        android:title="@string/sms_settings"/>
+
+    <CheckBoxPreference
+        android:defaultValue="false"
+        android:key="bootup"
+        android:summary="@string/bootup_summary"
+        android:title="@string/bootup_settings"/>
+
+    <SwitchPreference
+        android:defaultValue="false"
+        android:key="backgroundService"
+        android:summary="@string/background_summary"
+        android:title="@string/background_settings"/>
+
+    <Preference
+        android:key="settingsButton"
+        android:summary="@string/accessibility_summary"
+        android:title="@string/accessibility_settings" />
+
+
+
+</PreferenceScreen>

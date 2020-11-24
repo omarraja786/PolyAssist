@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.polyassist.omar.ce301.ocrInfo">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="\nAim your camera at some text. When the text box appears with the white border,
+        you can tap on the box for the text to be read out loud. \n\n Pinch in and out to zoom respectively."
+        android:textSize="20sp"/>
+
+
+
+</LinearLayout>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.polyassist.omar.ce301.cbbScreen">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="\nDue to the nature of this feature, It could not be implemented. The reasons being security and no source of information on the internet to guide me.\n\nIn the settings page of the app I have added a button to go to Android's accessibility page where their own colour blind mode feature can be enabled."
+        android:textSize="20sp"/>
+
+</LinearLayout>

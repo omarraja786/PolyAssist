@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:ignore="AlwaysShowAction">
+    <item android:id="@+id/tts_stop"
+        android:icon="@drawable/ic_pause_circle_outline_black_24dp"
+        android:title="@string/TTS"
+        app:showAsAction="always" />
+
+    <item android:id="@+id/tts_start"
+        android:icon="@drawable/ic_play_circle_outline_black_24dp"
+        android:title="@string/TTS"
+        app:showAsAction="always" />
+
+</menu>

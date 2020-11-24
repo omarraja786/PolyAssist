@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/power"
+        android:icon="@drawable/ic_power"
+        android:title="@string/power" />
+    <item
+        android:id="@+id/volumeup"
+        android:icon="@drawable/ic_volume_up_black_24dp"
+        android:title="@string/volume"/>
+    <item
+        android:id="@+id/volumedown"
+        android:icon="@drawable/ic_volumedown"
+        android:title="@string/volumeDown" />
+
+    <item
+        android:id="@+id/scroll"
+        android:icon="@drawable/ic_scroll"
+        android:title="@string/scroll" />
+
+    <item
+        android:id="@+id/swipe"
+        android:icon="@drawable/ic_swipe"
+        android:title="@string/swipe" />
+
+    <item
+        android:id="@+id/openApp"
+        android:icon="@drawable/ic_stat_name"
+        android:title="@string/openApp" />
+
+
+
+
+</menu>
