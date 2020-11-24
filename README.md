@@ -1,5 +1,5 @@
 ![alt text](https://i.ibb.co/C1KC4jL/Untitled-1.png)
-<b> <h1> A MULTI-FUNCTIONAL ACCESSIBILITY ANDROID APPLICATION </h1> </b>
+<b> <h2> A MULTI-FUNCTIONAL ACCESSIBILITY ANDROID APPLICATION </h2> </b>
 
 
 ![alt text](https://i.ibb.co/Rj1yJvc/App-Icon-V2-Small.png)
