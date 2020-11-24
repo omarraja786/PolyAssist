@@ -1,11 +1,11 @@
-<b> <h1> POLYASSIST – A MULTI-FUNCTIONAL ACCESSIBILITY ANDROID APPLICATION </h1> </b>
+![alt text](https://i.ibb.co/C1KC4jL/Untitled-1.png)
+<b> <h1> A MULTI-FUNCTIONAL ACCESSIBILITY ANDROID APPLICATION </h1> </b>
 
 
+![alt text](https://i.ibb.co/TwywfVT/App-Icon-V2.png)
 
-![alt text](https://i.ibb.co/NSQ779N/App-Icon-Read-Me.png)
 
-
-![alt text](https://i.ibb.co/jwcJ9W6/1.png) ![alt text](https://i.ibb.co/CV1pQCP/2.png) 
+![alt text](https://i.ibb.co/BzGrgsb/ss6.png) ![alt text](https://i.ibb.co/THR3G9Q/ss2.png) 
 
 
 The primary aim was to create an easy to use, multi-function accessibility application for android users. With the lack of accessibility being integrated into daily use applications, something needed to be made for this side of the market. 
